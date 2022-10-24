@@ -1,1 +1,1 @@
-<img src="mobile..png" alt="screen">
+<img src="mobile.png" alt="screen">
